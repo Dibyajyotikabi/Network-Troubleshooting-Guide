@@ -19,3 +19,4 @@ This guide provides step-by-step instructions for troubleshooting common network
 
 ## Conclusion
 This guide helps users quickly identify and resolve common network issues, ensuring a stable and reliable network connection.
+![Basic Network Troubleshooting Guide Mind Map](https://raw.githubusercontent.com/Dibyajyotikabi/Network-Troubleshooting-Guide/main/Basic-Network-Troubleshooting-Guide-Mind-Map.png)
